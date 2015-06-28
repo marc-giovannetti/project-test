@@ -1,1 +1,1 @@
-# project-test
+# New WordPress project
